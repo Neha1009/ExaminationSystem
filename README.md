@@ -43,19 +43,7 @@ Functional Specification:
 <b>ER-Diagram</b>
 <img src="https://imgur.com/cXSgrXO.png" width=100%>
 
-<b>Snapshots</b>
 
-<img src="https://imgur.com/k8uCKmF.png" width=100%>
-<img src="https://imgur.com/elXTDUL.png" width=100%>
-<img src="https://imgur.com/boG3UD5.png" width=100%>
-
-<img src="https://imgur.com/k3eLTbx.png" width=100%>
-
-<img src="https://imgur.com/rqazZfl.png" width=100%>
-
-<img src="https://imgur.com/gdsCmoY.png" width=100%>
-
-<img src="https://imgur.com/tReWRcw.png" width=100%>
 
 <b>How to run this project locally</b>
 1. clone this repo to www folder in WAMP software
