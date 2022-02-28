@@ -1,7 +1,6 @@
 # DBMS-MINI-Project
  DBMS project on topic Online Examination System
 
-<b>link:<a href="http://dbproject.cf/">http://dbproject.cf/</a></b>
 
 <b>Technology Used:</b>
 
