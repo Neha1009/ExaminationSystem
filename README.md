@@ -1,5 +1,5 @@
 # OnlineExaminationSystem
- DBMS project on topic Online Examination System
+
 
 
 <b>Technology Used:</b>
