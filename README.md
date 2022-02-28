@@ -1,4 +1,4 @@
-# DBMS-MINI-Project
+# OnlineExaminationSystem
  DBMS project on topic Online Examination System
 
 
