@@ -39,8 +39,7 @@ Functional Specification:
  <img src="https://imgur.com/CEVPaEm.png" width=100%>
  
  
-<b>ER-Diagram</b>
-<img src="https://imgur.com/cXSgrXO.png" width=100%>
+
 
 
 
