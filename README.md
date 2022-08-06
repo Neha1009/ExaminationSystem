@@ -35,14 +35,6 @@ Functional Specification:
 4.Generating result after the exam.
 
 
-<--<b>Schema Diagram</b>
- <img src="https://imgur.com/CEVPaEm.png" width=100%>-->
- 
- 
-
-
-
-
 <b>How to run this project locally</b>
 1. clone this repo to www folder in WAMP software
 2. Open phpmydmin & Create new database with name projet
