@@ -35,8 +35,8 @@ Functional Specification:
 4.Generating result after the exam.
 
 
-<b>Schema Diagram</b>
- <img src="https://imgur.com/CEVPaEm.png" width=100%>
+<--<b>Schema Diagram</b>
+ <img src="https://imgur.com/CEVPaEm.png" width=100%>-->
  
  
 
